@@ -1,4 +1,4 @@
-# "Core_Subjects-CSE"
+# "Core-Subjects For CSE Stus. !!"
 > - *Includes all the resources for Core CS fundamentals*
 
 1. OOPs
